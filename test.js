@@ -1,4 +1,5 @@
 var a = 10
 var b = 12
 
-let c = a + b
+let d = a + b
+console.log("d", d);
